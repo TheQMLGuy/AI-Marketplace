@@ -6,3 +6,8 @@ import "./json-yaml-csv";
 import "./archive";
 import "./text-tools";
 import "./pdf-tools";
+import "./svg-tools";
+import "./image-advanced";
+import "./document-advanced";
+import "./web-advanced";
+import "./spreadsheet-advanced";
